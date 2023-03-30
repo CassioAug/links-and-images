@@ -1,2 +1,6 @@
 # Links-And-Images
-Links And Images - HTML - TOP Foundations
+Working with links and images.
+
+Main elements:
+<a href="link">text</a>
+<img src="image-path" alt="description">
